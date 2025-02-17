@@ -1,0 +1,1 @@
+This is cryptography assignment writing this for AES encryption and decryption
